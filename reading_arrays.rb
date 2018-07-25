@@ -1,5 +1,5 @@
-STUDENT_NAMES = [
-  STUDENT_NAMES[0] = "Adele",
+student_names = [
+  student_names[0] = "Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
@@ -10,7 +10,7 @@ STUDENT_NAMES = [
 # Write a solution that returns the first student in the array student_names
 
 def first_student_by_index
-  puts "#{STUDENT_NAMES[0]}"
+  puts "#{student_names[0]}"
 end
 
 def fourth_student_by_index
