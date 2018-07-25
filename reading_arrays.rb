@@ -1,11 +1,10 @@
-student_names = [
+student_names = []
   student_names[0] = "Adele",
   student_names[1] = "Beyoncé",
   student_names[2] = "Cardi B",
   student_names[3] = "Lady Gaga",
   student_names[4] = "Nicki Minaj",
   student_names[5] = "Rihanna"
-]
 
 # Write a solution that returns the first student in the array student_names
 
