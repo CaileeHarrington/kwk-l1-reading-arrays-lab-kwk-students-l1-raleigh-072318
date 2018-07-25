@@ -27,7 +27,7 @@ end
 last_student_by_index(student_names)
 
 def first_student_by_method(student_names)
-  puts "student_names".first
+  puts "#{student_names}".first
 end
 
 first_student_by_method(student_names)
