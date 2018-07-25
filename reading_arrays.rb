@@ -1,5 +1,5 @@
 student_names = [
-  "Adele",
+  student_names[0] = "Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
